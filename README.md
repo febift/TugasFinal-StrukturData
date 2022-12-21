@@ -15,7 +15,7 @@ Ada beberapa operasi dasar yang bisa kita untuk lakukan terhadap struktur data s
 
 • IsFull: Memerika apakah stack sudah penuh
 
-• Peek: Mendapatkan nilai elemen teratas tanpa menghapusnya image
+• Peek: Mendapatkan nilai elemen teratas tanpa menghapusnya
 
 Struktur Data Queue
 Queue adalah struktur data linier yang menerapkan prinsip operasi dimana elemen data yang masuk pertama akan keluar lebih dulu. Prinsip ini dikenal dengan istilah FIFO (First In, First Out)
@@ -38,4 +38,4 @@ Queue adalah struktur data abstrak (ADT) yang memungkinkan operasi berikut:
 
 • Initialize: Membuat antrian baru tanpa elemen data (kosong)
 
-Namun, secara umum antrian memiliki 2 operasi utama, yaitu enqueue dan dequeue. image
+Namun, secara umum antrian memiliki 2 operasi utama, yaitu enqueue dan dequeue.
